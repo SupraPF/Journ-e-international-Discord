@@ -1,4 +1,4 @@
-# Journée-international-Discord 🚀
+# Journée international Discord 🚀
 
 Ce projet est un bot Discord qui envoie un message chaque jour pour célébrer une journée internationale 🤩
 
